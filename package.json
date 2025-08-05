@@ -15,7 +15,7 @@
 	"description": "A project that does something awesome",
 	"keywords": ["npm", "package", "json", "boilerplate", "freecodecamp"],
 	"author": "amien238",
-	"license": "ISC",
+	"license": "MIT",
 	"bugs": {
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm/issues"
 	},
