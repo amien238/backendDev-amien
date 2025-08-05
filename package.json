@@ -13,7 +13,7 @@
 	},
 	"version": "1.0.0",
 	"description": "A project that does something awesome",
-	"keywords": [],
+	"keywords": ["npm", "package", "json", "boilerplate", "freeCodeCamp"],
 	"author": "amien238",
 	"license": "ISC",
 	"bugs": {
